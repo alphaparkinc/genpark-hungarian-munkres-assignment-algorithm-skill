@@ -1,0 +1,17 @@
+{
+  "name": "genpark-hungarian-munkres-assignment-algorithm-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Kuhn-Munkres (Hungarian) Bipartite Matching Algorithm for Optimal 1-to-1 Task-Agent Assignment",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "operations-research",
+    "bipartite-matching",
+    "hungarian-algorithm",
+    "assignment-problem"
+  ]
+}
